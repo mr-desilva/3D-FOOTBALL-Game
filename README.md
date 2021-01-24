@@ -24,5 +24,5 @@ F key to change the camera mode.
 ```
 2. Camera View
 ```
-<img src = "https://github.com/ANDREWDESILVASL/3D-FOOTBALL-Game-/blob/main/images/fpsView.JPG">
+<img src = "https://github.com/ANDREWDESILVASL/3D-FOOTBALL-Game-/blob/main/images/fpsView.png">
 
