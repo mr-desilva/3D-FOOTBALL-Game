@@ -19,10 +19,10 @@ use ⬆ and ⬇ keys to move the height of the aim.
 R key to reset the game.
 F key to change the camera mode.
 ```
-<img src = "https://github.com/ANDREWDESILVASL/3D-FOOTBALL-Game-/blob/main/images/main.JPG">
+<img src = "https://github.com/mr-desilva/3D-FOOTBALL-Game-/blob/main/images/main.JPG">
 
 ```
 2. Camera View
 ```
-<img src = "https://github.com/ANDREWDESILVASL/3D-FOOTBALL-Game-/blob/main/images/fpsView.png">
+<img src = "https://github.com/mr-desilva/3D-FOOTBALL-Game-/blob/main/images/fpsView.png">
 
